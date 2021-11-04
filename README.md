@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anything thats avilble
 - 📫 How to reach me ... danieltower101501@gmail.com
 
-i have a twich were i live stream my coding and explain what i am doing.
-https://www.twitch.tv/redinfinity_pro/about
+
 
 <!---
 RedInfinity-source/RedInfinity-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
