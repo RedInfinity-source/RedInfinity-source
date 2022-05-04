@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RedInfinity-source
-- 👀 I’m interested in ... Coding on python, making radio shows, making short films
-- 🌱 I’m currently learning ... on how to improve my oding and how to use python imports correctly
-- 💞️ I’m looking to collaborate on ... anything thats avilble
-- 📫 How to reach me ... danieltower101501@gmail.com
+- 👀 I’m interested in Coding in python, unrelated to python i am interested in making short films, radio shows and other items related to media and communications
+- 🌱 I’m currently learning AI, and how to make my code more readable for others
+- 💞️ I’m looking to collaborate on anything thats avalible. 
+- 📫 How to reach me ... though emal at: danieltower101501@gmail.com
 
 
 
